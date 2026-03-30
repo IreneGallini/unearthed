@@ -1,0 +1,9 @@
+CollegeID	CollegeName	DepartmentCode	DepartmentName	CourseCode	CourseNumber	CourseName	SectionNumber	Semester	Year	StudentID	FirstName	MiddleName	LastName	GraduatingYear	LetterGrade
+1	Macalester	MSCS	Math, Stats and Computer Science	COMP	302	Introduction to DBMS	1	Spring	2026	10001	George	Washington	Washington Carver	2026	A-
+1	Macalester	MSCS	Math, Stats and Computer Science	COMP	302	Introduction to DBMS	1	Spring	2026	10002	Benjamin		Banneker	2026	C-
+1	Macalester	MSCS	Math, Stats and Computer Science	COMP	302	Introduction to DBMS	2	Spring	2026	20001	Patricia		Selinger	2027	C+
+1	Macalester	MSCS	Math, Stats and Computer Science	COMP	302	Introduction to DBMS	2	Spring	2026	20002	Edgar	E.F. 	Codd	2027	B-
+1	Macalester	BIO	Biology	BIOL	190	Genetics	1	Spring	2026	30001	Madame	C.J.	Walker	2028	A-
+1	Macalester	BIO	Biology	BIOL	190	Genetics	1	Spring	2026	40001	Ellen	Johnson	Sirleaf	2029	A-
+1	Macalester	BIO	Biology	BIOL	190	Genetics	1	Spring	2026	30002	Condoleezza		Rice	2028	A-
+1	Macalester	BIO	Biology	BIOL	190	Genetics	1	Spring	2026	10003	Madeleine		Albright	2026	B+

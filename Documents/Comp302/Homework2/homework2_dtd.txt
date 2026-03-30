@@ -1,0 +1,44 @@
+-- Database specification
+
+bookingAgency: 
+	name    VARCHAR
+    	phone  VARCHAR
+    	contactPerson 
+
+section:
+	id VARCHAR
+	level INT
+
+customer: 
+    id INT 
+    phone  VARCHAR
+
+performer: 
+	id INT
+	name
+    
+seat:
+	number INT
+
+
+-- NOTE: You cannot create a relation named 'show' because show is a MariaDB SQL
+-- keyword. Try typing 'show tables;' on your MariaDB console. 
+show_relation:
+	id INT 
+	title VARCHAR
+	performer_id INT (FK) - Use this format for your foreign key columns: tableName_columnName 
+        opening_performer_id INT,	
+
+performance: 
+	date DATE
+    	time TIME
+
+ticket:
+	number INT
+
+
+-- NOTE: Money is stored in cents. If you need to store 45.50, you need to multiply it by 
+-- 100 and store 4550 cents
+sold_ticket:
+	price
+
